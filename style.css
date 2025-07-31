@@ -32,7 +32,7 @@ section {
 }
 
 .imagens-grandes img {
-  width: 100px; /* Aqui controla o tamanho!! */
+  width: 40px; /* Aqui controla o tamanho!! */
   height: auto;
   margin: 15px;
   border: 4px solid red;
